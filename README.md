@@ -161,29 +161,16 @@ De forma geral, o projeto demonstra a aplicação conjunta de **Python, SQL, pan
 
 ## Arquivos do Projeto
 
-
 Os principais arquivos do projeto estão organizados entre o script responsável pela automação e os dados utilizados e gerados durante o processamento.
-
 
 ### Script
 
-
-🐍 **Script - Automação de Consultas de COVID-19**
-
-
-` scripts/projeto_covid_bigquery.py `
-
+🐍 [Script - Automação de Consultas de COVID-19](https://github.com/Jucastilla/projeto-covid-bigquery/blob/main/scripts/projeto_covid_bigquery.py)
 
 Script desenvolvido no Visual Studio Code, contendo a conexão com o Google BigQuery, as consultas SQL, o processamento dos DataFrames, os procedimentos de validação e a exportação dos resultados.
 
-
 ### Dados
 
-
-📊 **Dados do Projeto**
-
-
-` data/ `
-
+📊 [Acessar Dados do Projeto](https://github.com/Jucastilla/projeto-covid-bigquery/tree/main/data)
 
 A pasta contém a base utilizada no projeto e os resultados processados das consultas, organizados entre `raw` e `ready`. Os resultados finais estão disponíveis nos formatos **CSV e Parquet**.
