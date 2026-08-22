@@ -1,4 +1,4 @@
-﻿# Projeto de Análise de Dados | BigQuery
+﻿# Projeto de Análise de Dados da COVID-19
 
 
 ## Automação e Processamento de Dados com Python e BigQuery
